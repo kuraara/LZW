@@ -37,7 +37,7 @@ BytesRead, BytesWritten, Efficiency, Time(ms), DictionarySize
 ![alt text](images/compTime.png "Compression Time")
 
 ## Decompression Time ##
-![alt text](images/DecompTime.png "Decompression Time")
+![alt text](images/DecompTimes.png "Decompression Time")
 
 ## Compression Ratio ##
 ![alt text](images/LZW_IOBytes.png "Compression Ratio")
